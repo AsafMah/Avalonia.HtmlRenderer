@@ -16,6 +16,8 @@ jobs:
       uses: actions/setup-dotnet@v2
       with:
         dotnet-version: 6.0.x
+    - name: add source
+      run: dotnet nuget add source -name avalonia https://nuget.avaloniaui.net/repository/avalonia-all/index.json
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
