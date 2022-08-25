@@ -18,6 +18,7 @@
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <PackageId>Avalonia.HtmlRenderer.Preview</PackageId>
   </PropertyGroup>
   <ItemGroup>
     <EmbeddedResource Include="external\Source\HtmlRenderer\Core\Utils\ImageError.png">
