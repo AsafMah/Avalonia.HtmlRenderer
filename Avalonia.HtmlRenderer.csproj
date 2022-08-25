@@ -8,7 +8,7 @@
     <LangVersion>default</LangVersion>
   </PropertyGroup>
   <PropertyGroup>
-    <Version>0.10.0</Version>
+    <Version>0.11.0-preview</Version>
     <Copyright>Copyright 2022 © The AvaloniaUI Project</Copyright>
     <PackageProjectUrl>https://avaloniaui.net</PackageProjectUrl>
     <RepositoryUrl>https://github.com/AvaloniaUI/Avalonia.HtmlRenderer/</RepositoryUrl>
