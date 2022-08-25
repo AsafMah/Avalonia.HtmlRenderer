@@ -12,6 +12,10 @@ jobs:
     environment: main
     steps:
     - uses: actions/checkout@v3
+    - name: Checkout submodules
+      uses: textbook/git-checkout-submodule-action@master
+      with:
+        remote: true
     - name: Setup .NET
       uses: actions/setup-dotnet@v2
       with:
