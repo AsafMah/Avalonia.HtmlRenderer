@@ -11,7 +11,7 @@
     <Version>0.11.0-preview</Version>
     <Copyright>Copyright 2022 © The AvaloniaUI Project</Copyright>
     <PackageProjectUrl>https://avaloniaui.net</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/AvaloniaUI/Avalonia.HtmlRenderer/</RepositoryUrl>
+    <RepositoryUrl>https://github.com/AsafMah/Avalonia.HtmlRenderer/</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryType>git</RepositoryType>
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
